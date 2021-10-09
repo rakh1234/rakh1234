@@ -1,4 +1,4 @@
-- Hi, I’m @rakh1234
+- Hi, I’m Razan Khalid
 - I’m interested in Developing IOS apps.
 - I’m currently learning Java Programming language, Swift programming language.
 
