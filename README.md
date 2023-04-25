@@ -1,4 +1,4 @@
-- Hello, I’m Razan Khalid
+- Hello, I’m Razan 
 - I’m interested in Data Science & Developing IOS apps.
 
 <!---
