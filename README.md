@@ -7,10 +7,6 @@ I’m passionate about **software development**, **API design**, and solving com
 - Design and implement **RESTful APIs**.  
 - Collaborate on building **high-quality software solutions**.  
 
-### 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, SQL  
-- **Frameworks**: Django, React  
-- **Tools**: Git, Docker, PostgreSQL 
 
 <!---
 rakh1234/rakh1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
